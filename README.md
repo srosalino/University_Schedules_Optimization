@@ -1,5 +1,5 @@
-# CIFO 
-**Computational Intelligence for Optimization (CIFO)** 
+# Utilizing Genetic Algorithms to optimize University Schedules
+**Computational Intelligence for Optimization** 
 <br>
 
 **Instructions**
